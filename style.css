@@ -1,0 +1,28 @@
+header{
+    height: ; 
+    background-color: brown;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin-left: 20px;
+}
+a{
+    color: cyan;
+    text-decoration: none;
+    font-size: 25px;
+  
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(202, 234, 241);
+}
