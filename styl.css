@@ -1,0 +1,26 @@
+body{
+    background-color: cadetblu;
+}
+header{
+    display: flex;
+    align-items: center;    
+    justify-content: space-around;
+    background-color: cadetblue;
+}
+ul{
+    display: flex;
+    
+}
+li{
+    margin-left: 40px;
+    list-style: none;
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+h1{
+    color: #fff;
+}
